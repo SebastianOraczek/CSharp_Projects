@@ -1,4 +1,4 @@
-# PO WSEI 2022 PROJECT
+# Bookstore WPF Project
 
 It is a simply desktop application in C#, that allows to manipulate data.
 
