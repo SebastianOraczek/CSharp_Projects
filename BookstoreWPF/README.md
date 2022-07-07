@@ -4,7 +4,7 @@ It is a simply desktop application in C#, that allows to manipulate data.
 
 Application is based on:
 * CRUD (Create, Read, Update, Delete) functionality,
-* SQL queries to create and fill data in,
+* SQL queries to create and fill data in (LocalDB/MSSQL),
 * Entity Framework for C#,
 * DAL (Data Access Layer).
 
